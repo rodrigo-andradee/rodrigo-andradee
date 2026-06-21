@@ -1,4 +1,4 @@
-# Hi, I'm Rodrigo 👋
+# Hi, I'm Rodrigo Andrade 👋
 
 I'm an aspiring **Data Engineer** based in Lisbon, Portugal, currently training in Data Science & Business Analytics and building hands-on experience through real-world ETL pipeline projects.
 
