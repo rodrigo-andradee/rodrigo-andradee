@@ -38,4 +38,4 @@ ETL pipeline on the public Brazilian e-commerce dataset **Olist**, built with Py
 [![Streamlit App](https://img.shields.io/badge/Streamlit-insurance--lookup--tool-FF4B4B?style=flat&logo=streamlit)](https://insurance-lookup-tool.streamlit.app)
 
 📧 rmandradee@gmail.com  
-📍 Lisbon, Portugal · Open to junior DE roles in Portugal, Ireland and Spain
+📍 Lisbon, Portugal · Open to junior DE roles in Portugal, Switzerland, Ireland and Spain
